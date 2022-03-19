@@ -1,1 +1,1 @@
-# LinearRegressionPredictionAccuracy
+영화 관객 수 선형 회귀 모델 예측 성능 개선 과제
